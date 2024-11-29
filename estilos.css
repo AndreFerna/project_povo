@@ -1,0 +1,36 @@
+body {
+    background-color: #e9ecef;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .form-header {
+    background-color: #2e7d32;
+    text-align: center;
+  }
+  
+  .form-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .form-subtitle {
+    font-size: 1.1rem;
+  }
+  
+  .form-body {
+    background-color: white;
+    border-left: 5px solid #2e7d32;
+  }
+  
+  .form-footer {
+    font-size: 0.9rem;
+  }
+   
+  #texto {
+    resize: none; 
+  }
+  
+  #contador-palabras {
+    font-weight: bold;
+    color: #2e7d32; 
+  }
